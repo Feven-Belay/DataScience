@@ -1,0 +1,15 @@
+Row No.,Play,Outlook,Temperature,Humidity,Wind
+1,no,sunny,85,85,FALSE
+2,no,sunny,80,90,TRUE
+3,yes,overcast,83,78,FALSE
+4,yes,rain,70,96,FALSE
+5,yes,rain,68,80,FALSE
+6,no,rain,65,70,TRUE
+7,yes,overcast,64,65,TRUE
+8,no,sunny,72,95,FALSE
+9,yes,sunny,69,70,FALSE
+10,yes,rain,75,80,FALSE
+11,yes,sunny,75,70,TRUE
+12,yes,overcast,72,90,TRUE
+13,yes,overcast,81,75,FALSE
+14,no,rain,71,80,TRUE
